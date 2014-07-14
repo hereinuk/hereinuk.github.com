@@ -1,0 +1,44 @@
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+markdown: redcarpet
+
+# 作者信息
+author: 
+  name: 威廉小霍
+  email: ygf_1988@sina.com
+  link: http://williamxiaohuo.com
+  weibo: http://weibo.com/24543196
+  github: http://github.com/hereinuk
+
+# 站点信息
+title: 威廉小霍's 博客 
+description: 威廉小霍's 博客
+url: http://williamxiaohuo.com
+rss_url: /pages/atom.xml
+
+# gavatar头像及Favicon
+gavatar: /public/upload/gavatar/gavatar.png
+favicon: /public/upload/gavatar/favicon.ico
+
+# google analytics 设置
+ga:
+  id: UA-52812715-1
+  url: williamhoho
+
+# disqus 设置
+disqus:
+  shortname: hereinuk
+
+# 主题设置，自动激活某个标签
+active: 技术
+
+# 首页除了最新文章外显示分类
+cates: 
+  - Python
+  - OpenStack
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章
