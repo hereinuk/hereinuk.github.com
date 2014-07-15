@@ -71,17 +71,17 @@ $(document).ready(function() {
     $('.aside3').scrollTop(0);
     contentEffects();
   });
- /*$('body').on('click', '.show-commend', function(){
+$/*('body').on('click', '.show-commend', function(){
     var ds_loaded = false;
-    window.disqus_shortname = $('.show-commend').attr('name');
-    $.ajax({
+    window.duoshuo_shortname = $('.show-commend').attr('name');
+     $.ajax({
       type: "GET",
-      url: "http://" + disqus_shortname + ".disqus.com/embed.js",
+      url: "http://" + duoshuo_shortname + ".duoshuo.com/embed.js",
       dataType: "script",
       cache: true
     });
-  });*/
-  contentEffects();
+  });
+  contentEffects();*/
 });
 function contentEffects(){
   //remove the asidebar
