@@ -2,12 +2,11 @@
 layout: post
 title: "【微小说】我来到你的城市，却已弄丢了你"
 category: 生活
-tags:情感
+tags: 
 keywords: 
 description: 
-
-
 ---
+
 <embed src="http://player.56.com/v_MTE5MjQyNzE2.swf" type="application/x-shockwave-flash" width="560" height="470" allowfullscreen="true" allownetworking="all" allowscriptaccess="always"></embed>
 
 
