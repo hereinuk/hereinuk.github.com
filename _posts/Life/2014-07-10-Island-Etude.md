@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "有些事现在不做，一辈子也不会了。 ——《练习曲》"
-categories:生活
+category:生活
 tags:电影
 keywords: 
 description:
