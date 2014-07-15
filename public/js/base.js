@@ -69,7 +69,7 @@ $(document).ready(function() {
     if($("body").find('.container').width() < 992)
       $('#nav_btn').click();
     $('.aside3').scrollTop(0);
-  //  contentEffects();
+    contentEffects();
   });
  /*$('body').on('click', '.show-commend', function(){
     var ds_loaded = false;
