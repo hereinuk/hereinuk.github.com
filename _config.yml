@@ -25,8 +25,8 @@ ga:
   id: UA-52812715-1
   url: williamhoho
 
-# duoshuo 设置
-duoshuo:
+# disqus 设置
+disqus:
   shortname: williamxiaohuo
 
 # 主题设置，自动激活某个标签
