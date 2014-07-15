@@ -69,14 +69,14 @@ __说明：本篇用到的代码中，为了防止解析冲突，一律多了`\`
 permalink: /:year/:month/:day/:title.html   #博文的固定链接
 paginate: 10                                #分页时每页博文数量
 author:                                     #自定义常亮
-  name: 闫肃
-  email: yansu0711@gmail.com
-  link: http://yansu.org
-title: 闫肃的博客                             #自定义常量
+  name: Ying
+  email: ygf_1988@sina.com
+  link: http://williamxiaohuo.com
+title: 威廉小霍's 博客                      #自定义常量
 locals:                                     #自定义常量
   tags: 标签
   about: 关于
-active: 技术                                 #自定义常量
+active: 技术                                #自定义常量
 subscribe_rss: /pages/atom.xml              #订阅地址
 markdown: redcarpet                         #markdown解释器
 ```
@@ -87,7 +87,7 @@ markdown: redcarpet                         #markdown解释器
 `CNAME`这个文件写明了这个站点的域名，如果不喜欢`username.github.io`的话，可以像我一样改掉
 
 ```
-yansu.org
+williamxiaohuo.com
 ```
 
 改法只要在这个文件中写入域名就可以了。不过你需要去域名服务商那里设定域名解析规则。
