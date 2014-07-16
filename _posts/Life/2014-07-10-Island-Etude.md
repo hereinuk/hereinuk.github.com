@@ -6,7 +6,7 @@ tags: 电影
 keywords: 
 description: 
 ---
-![](http://img3.douban.com/view/photo/photo/public/p910272121.jpg)
+![](http://img3.douban.com/view/photo/photo/public/p2039963561.jpg)
 
 
 一直想写关于《练习曲》的文字，可总是动笔时就语塞。在豆瓣里翻看几个网友的评论，说的很好，写的感动，也特别喜欢……    
